@@ -12,5 +12,9 @@ Então criei um pacote dispositivos com quatro pacotes: internet, musica, telefo
 
 <img src="https://github.com/vverdum/UML-Iphone/assets/157656254/30d96e17-eb6d-4b6b-aa84-5513f7325def" style="width: 200px;">
 
+Após estabelecer esta estrutura, eu escrevi um prompt solicitando a criação de uma interface NavegadorInternet e uma classe Internet que implementasse esta interface. 
+Desta forma, cada pacote contém dois arquivos uma classe e uma interface de acordo com o diagrama na UML, totalizando seis arquivos em java. 
 
+Depois escrevi um prompt solicitando a criação de um arquivo iPhone que implementasse os métodos criados. 
+Eu tive que fazer vários ajustes porque inicialmente o código implementou as classes e não as interfaces, declarou a variável musica mas não a utilizou e também não fechava o scanner. Após as correções, o código atendeu as minha expectativas. 
 
